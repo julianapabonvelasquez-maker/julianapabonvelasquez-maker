@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Juliana 👋
 
-<!--
-**julianapabonvelasquez-maker/julianapabonvelasquez-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Environmental Engineer with experience in technical reporting and data management, currently transitioning into Data Analytics.
 
-Here are some ideas to get you started:
+## About Me
+- Background in environmental engineering and assurance projects
+- Strong experience working with data, reports, and indicators
+- Currently training in Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Excel
+- SQL
+- Python
+- Power BI
+
+## Featured Projects
+- 📊 Data Analysis Portfolio  
+  👉 https://github.com/julianapabonvelasquez-maker/data-analysis-portfolio
+
+## Currently Learning
+- Advanced SQL queries
+- Data visualization best practices
+- Python for data analysis
